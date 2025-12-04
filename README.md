@@ -1,6 +1,6 @@
 # Telegram Download/Upload Bot
 
-A Telegram bot for handling file downloads and uploads with progress tracking, built with `python-telegram-bot`.
+A Telegram bot for handling telegram file downloads and uploads with progress tracking, built with [python-telegram-bot](https://github.com/RtiM0/telegram-download-bot).
 
 > Note: Dockerized version with UI will be available in the future.
 > 
