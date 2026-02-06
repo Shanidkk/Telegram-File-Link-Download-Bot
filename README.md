@@ -15,7 +15,7 @@ A Telegram bot for handling telegram file downloads and uploads with progress tr
 
 https://media.omeshapasan.site/Static/tgbot.gif
 
-![Demo](https://media.omeshapasan.site/Static/tgbot.gif)
+![Demo](https://media.omesha.site/Static/tgbot.gif)
 
 ## 🚀 Features
 
